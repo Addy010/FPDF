@@ -11,14 +11,14 @@ This fork adds the following features to the original FPDF library:
 
 If you're using Composer to manage dependencies, you can use
 
-    $ composer require addy010/fpdf:^1.8
+    $ composer require addy010/fpdf:^1.0
 
 or you can include the following in your composer.json file:
 
 ```json
 {
     "require": {
-        "addy010/fpdf": "^1.8"
+        "addy010/fpdf": "^1.0"
     }
 }
 ```
