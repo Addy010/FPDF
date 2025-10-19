@@ -5,7 +5,7 @@ FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPD
 
 ## Additional Features
 This fork adds the following features to the original FPDF library:
-- ...
+- Adds `GetMultiCellHeight` method to get the height of `MultiCell` elements
 
 ## Installation with [Composer](https://packagist.org/packages/addy010/fpdf)
 
