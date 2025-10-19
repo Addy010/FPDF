@@ -7,7 +7,7 @@ FPDF is a PHP class which allows to generate PDF files with pure PHP. F from FPD
 This fork adds the following features to the original FPDF library:
 - ...
 
-## Installation with [Composer](https://packagist.org/packages/setasign/fpdf)
+## Installation with [Composer](https://packagist.org/packages/addy010/fpdf)
 
 If you're using Composer to manage dependencies, you can use
 
